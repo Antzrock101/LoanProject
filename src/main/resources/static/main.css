@@ -1,0 +1,15 @@
+
+body{
+    color: #0645c0;
+}
+
+th {
+    background-color: #36cbd0;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid black;
+}
+
